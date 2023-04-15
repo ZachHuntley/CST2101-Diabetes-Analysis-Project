@@ -9,7 +9,7 @@ A few years ago research was done on a tribe in America which is called the Pima
 
 # Objective
 
-The objective of this project was to analysis the pima diabetes dataset to build a classification machine learning model to accurately predict the presense of diabetes.
+The objective of this project was to analysis the pima diabetes dataset and build a classification machine learning model to accurately predict the presense of diabetes.
 
 # Data Dictionary
 
